@@ -20,3 +20,9 @@ Number of Female groups – 142
 Total Number of rows - 583
 The last column Dataset is used to classify the patients into two groups. ( patient with Liver disease or no disease)
 
+Requirements:
+Anaconda Navigator
+Jupyter Notebook
+
+Packages:
+Pandas,Numpy,Matplotlib,seaborn,sklearn,Keras
